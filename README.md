@@ -1,6 +1,13 @@
-# Business Statistics
+# Project: E-news Express
 
-## Project: E-news Express
+## Table of contents
+
+- [Project Overview](#project-overview)
+- [Import libraries](#import-libraries)
+- [Reading DataFrame](#reading-dataframe)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Conclusion and Business Recommendations](#conclusion-and-business-recommendations)
+
 
 ### Project Overview
 The data contains information regarding the interaction of users in both groups with the two versions of the landing page.
@@ -13,13 +20,13 @@ The data contains information regarding the interaction of users in both groups 
 - converted - Whether the user gets converted to a subscriber of the news portal or not
 - language_preferred - Language chosen by the user to view the landing page.
 
-### Import all the necessary libraries
+### Import libraries
   **Chart**
 
-### Reading the Data into a DataFrame
+### Reading DataFrame
   **Chart**
 
-### Explore the dataset and extract insights using Exploratory Data Analysis
+### Exploratory Data Analysis
 **Data Overview**
 - Viewing the first and last few rows of the dataset
 - Checking the shape of the dataset
