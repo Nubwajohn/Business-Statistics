@@ -21,6 +21,9 @@ The data contains information regarding the interaction of users in both groups 
 - converted - Whether the user gets converted to a subscriber of the news portal or not
 - language_preferred - Language chosen by the user to view the landing page.
 
+### Tools
+- list
+  
 ### Import libraries
   **Chart**
 
