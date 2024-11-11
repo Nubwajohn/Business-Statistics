@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Project Overview](#project-overview)
+- [Tools](#tools)
 - [Import libraries](#import-libraries)
 - [Reading DataFrame](#reading-dataframe)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
