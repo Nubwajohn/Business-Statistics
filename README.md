@@ -7,6 +7,7 @@
 - [Reading DataFrame](#reading-dataframe)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Conclusion and Business Recommendations](#conclusion-and-business-recommendations)
+- [Limitaions](#limitations)
 
 
 ### Project Overview
@@ -54,3 +55,5 @@ The data contains information regarding the interaction of users in both groups 
 - As there is no significant correlation between language preference and conversion rates, E-news Express should continue to offer the landing page in multiple languages but does not need to prioritize one over the other
 - Regular monitoring and analysis of user behavior data should be done to identify any emerging trends or potential issues with the new landing page. This will help in making data-driven decisions for future optimizations.
 - E-news Express is likely to enhance user engagement and achieve a sustainable increase in new subscribers.
+
+### Limitaions
