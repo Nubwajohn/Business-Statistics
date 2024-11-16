@@ -1,5 +1,7 @@
 # Project: E-news Express
 
+## About
+
 ## Table of contents
 
 - [Project Overview](#project-overview)
@@ -23,7 +25,11 @@ The data contains information regarding the interaction of users in both groups 
 - language_preferred - Language chosen by the user to view the landing page.
 
 ### Tools
-- list
+- Programming Language: Python.
+- Data Manipulation & Analysis Libraries: Pandas, NumPy.
+- Data Visualization Libraries: Matplotlib, Seaborn.
+- Machine Learning Library: Scikit-Learn.
+- Data Preprocessing & Exploratory Data Analysis (EDA) Tools:Excel, Google Colab.
   
 ### Import libraries
   **Chart**
